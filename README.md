@@ -5,6 +5,7 @@
 
 This project uses **Natural Language Processing (NLP)** to analyze customer sentiment from Amazon product reviews. By applying **VADER** and **RoBERTa** models, the analysis identifies key trends in customer satisfaction and uncovers actionable insights. The results help businesses understand customer perspectives, allowing for strategic decision-making to improve product offerings, customer service, and overall user experience.
 
+![Amazon Poster Image](https://github.com/robingodinho/Amazon_Machine_Learning/blob/3fb754fa7e1075875be3c62ab719af22cc5413d0/amazon_img.png)
 ## Table of Contents
 
 1. [Project Summary](#project-summary)
@@ -64,7 +65,9 @@ The analysis provides the following business insights:
 - **Customer Sentiment Overview**: The breakdown of positive, neutral, and negative sentiments helps gauge overall customer satisfaction.
 - **Key Drivers of Negative Sentiment**: By identifying common words and themes in negative reviews, businesses can pinpoint specific areas for improvement.
 - **Comparison of Model Performance**: The results illustrate the strengths of each approach, with VADER providing fast insights and RoBERTa offering greater detail and accuracy.
+![Sentiment graphs](https://github.com/robingodinho/Amazon_Machine_Learning/blob/3fb754fa7e1075875be3c62ab719af22cc5413d0/graphs.png)
 
+![Vader and Roberta Models](https://github.com/robingodinho/Amazon_Machine_Learning/blob/3fb754fa7e1075875be3c62ab719af22cc5413d0/Vader_Roberta_analysis.png)
 ## Applications & Potential Impact
 
 The insights derived from this project can benefit various business departments:
