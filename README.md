@@ -1,5 +1,5 @@
 
-# Amazon Sentiment Analysis
+# Amazon Sentiment Analysis using Machine Learning
 
 ## Project Summary
 
